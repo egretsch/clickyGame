@@ -1,4 +1,3 @@
-
 .nav-pills {
     position: fixed;
     top: 0;
@@ -14,6 +13,7 @@
     font-weight: bold;
     z-index: 99;
     white-space: nowrap;
+    overflow: auto;
 }
 
 .nav-pills a {
@@ -35,4 +35,9 @@
 
 .desc-incorrect {
     color: #f00;
+}
+
+
+.floatr {
+    float: right;
 }
