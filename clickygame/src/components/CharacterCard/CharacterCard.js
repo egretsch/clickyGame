@@ -3,18 +3,21 @@ import "./CharacterCard.css";
 
 const CharacterCard = props => (
     <div className="card">
-        <a inClick={() => props.selectCharacter(props.character)}>
-            <div className="img-container">
-                <img alt={props.character} src={props.image} />
-            </div>
+        <div className="img-container size">
+            <a onClick={() => props.selectCharacter(props.name)} 
+            className={props.curScore === 0 ? "style_prevu_kit style_prevu_kit_ex" : "style_prevu_kit"}>
+
+                <img alt={props.name} src={props.image} />
+
+            </a>
             <div className="content">
                 <ul>
                     <li>
-                        <strong>Name:</strong> {props.character}
+                        <strong>Name:</strong> {props.name}
                     </li>
                 </ul>
             </div>
-        </a>
+        </div>
     </div>
 );
 

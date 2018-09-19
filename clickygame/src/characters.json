@@ -1,62 +1,62 @@
 [
     {
-        "character": "Goku",
+        "name": "Goku",
         "image": "https://blogs-images.forbes.com/olliebarder/files/2017/10/goku_ultra_instinct.jpg"
     },
     {
-        "character": "One Punch Man",
+        "name": "One Punch Man",
         "image": "https://images.wallpaperscraft.com/image/one_punch_man_saitama_art_112476_2560x1600.jpg"
     },
     {
-        "character": "alucard",
+        "name": "alucard",
         "image": "https://images.wallpaperscraft.com/image/hellsing_alucard_art_105946_1680x1050.jpg"
     },
     {
-        "character": "Heero Yuy",
+        "name": "Heero Yuy",
         "image":  "https://s2.narvii.com/image/azj57hixwhibhbe4j5rcdojo3wzfwwni_hq.jpg"
     },
     {
-        "character": "Ichigo",
+        "name": "Ichigo",
         "image": "https://images.wallpaperscraft.com/image/bleach_art_kurosaki_ichigo_anime_95488_1920x1200.jpg"
     },
     {
-        "character": "Naruto",
+        "name": "Naruto",
         "image": "https://wallpaper-gallery.net/images/naruto-uzumaki-wallpapers/naruto-uzumaki-wallpapers-9.jpg"
     },
     {
-        "character": "Ainz Ooal Gown",
+        "name": "Ainz Ooal Gown",
         "image": "https://images.alphacoders.com/655/655516.jpg"
     },
     {
-        "character": "Yusuke Urameshi",
+        "name": "Yusuke Urameshi",
         "image": "https://wallpapercave.com/wp/wp2225358.jpg"
     },
     {
-        "character": "Rurouni Kenshin",
+        "name": "Rurouni Kenshin",
         "image": "https://images.wallpaperscraft.com/image/kenshin_himura_rurouni_kenshin_art_108221_1680x1050.jpg"
     },
     {
-        "character": "Monkey d Luffy",
+        "name": "Monkey d Luffy",
         "image": "https://www.besthdwallpaper.com/im/monkey-d-luffy-of-one-piece-wallpaper-1965_L.jpg"
     },
     {
-        "character": "Erza Scarlet",
+        "name": "Erza Scarlet",
         "image": "https://images.wallpaperscraft.com/image/erza_scarlet_fairy_tail_smile_arms_petals_101069_1440x900.jpg"
     },
     {
-        "character": "Asuna",
+        "name": "Asuna",
         "image": "https://images.wallpaperscraft.com/image/girl_sword_sword_art_online_red_decoration_yuuki_asuna_93391_1680x1050.jpg"
     },
     {
-        "character": "Spike Spiegel",
+        "name": "Spike Spiegel",
         "image": "https://images.wallpaperscraft.com/image/cowboy_bebop_spike_spiegel_boy_brunette_gun_41224_1440x900.jpg"
     },
     {
-        "character": "Roy Mustang",
+        "name": "Roy Mustang",
         "image": "https://besthqwallpapers.com/img/download/17-9-2018/roy-mustang-manga-anime-characters-full-metal-alchemist-besthqwallpapers.com-1280x800.jpg"
     },
     {
-        "character": "Guts",
+        "name": "Guts",
         "image": "https://www.desktopbackground.org/p/2015/10/23/1030826_kentaro-miura-berserk-guts-wallpapers-hd-desktop-and-mobile_1920x1200_h.jpg"
     }
 ]
