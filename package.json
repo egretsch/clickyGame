@@ -2,7 +2,7 @@
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://egretsch.github.io/clickyGame",
+  "homepage": "https://egretsch.github.io/clickyGame/",
   "dependencies": {
     "gh-pages": "^2.0.0",
     "react": "^16.5.1",
